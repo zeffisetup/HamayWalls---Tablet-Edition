@@ -1,6 +1,28 @@
 [
     {
         "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls---Tablet-Edition/main/Animated/A03.png",
+        "name": "A03",
+        "collections": "Animated"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls---Tablet-Edition/main/Animated/A02.png",
+        "name": "A02",
+        "collections": "Animated"
+    },
+    {
+        "author": "Zeffi Setups",
+        "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls---Tablet-Edition/main/Animated/A01.png",
+        "name": "A01",
+        "collections": "Animated"
+    },
+
+
+
+    
+    {
+        "author": "Zeffi Setups",
         "url": "https://raw.githubusercontent.com/zeffisetup/HamayWalls---Tablet-Edition/main/CuteWildLife/WF20.png",
         "name": "WF20",
         "collections": "CuteWildLife"
